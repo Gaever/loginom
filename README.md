@@ -1,6 +1,6 @@
 # loginom
 
-Simple frontend to display some big data calculations written on ExtJs framework. 
+Simple frontend  prototype to display some big data calculations written on ExtJs framework. 
 
 Data loads dynamicly as user clicks on element from list of calclation batches, stores list or suppliers lsit. 
 Batch list elements can be CRUDed (Create, Read, Update, Delete). 
